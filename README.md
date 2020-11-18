@@ -4,5 +4,5 @@
  ## Run the scraper (Windows)
  ```
 $ pip install -r requirements.txt
-$ init
+$ run
  ```
