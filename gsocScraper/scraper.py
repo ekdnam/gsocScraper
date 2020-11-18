@@ -33,5 +33,6 @@ for year in years:
     out = {"Organization": orgs_list, "Description": desc_list}
 
     df = pd.DataFrame.from_dict(out)
+    df["Year"] = str(year)
 
     df.to_csv(f"data/{year}.csv", index=False)
