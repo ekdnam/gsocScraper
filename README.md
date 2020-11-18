@@ -8,6 +8,8 @@
 - requests
 - bs4
 
+## Results
+The results (ordered by number of appearances of an organization) can be viewed at [appearances.csv](https://github.com/ekdnam/gsocScraper/blob/main/data/appearances.csv)
 
 ## Run the scraper (Windows)
  ```
